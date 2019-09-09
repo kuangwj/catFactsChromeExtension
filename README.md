@@ -8,5 +8,5 @@ page, where you can turn on Developer Mode (it should be in the top right
 corner).
 
 Click on "Load Unpacked" button and select the root directory. This is for
-development purposes only. I have not release this to anyone else and the
-pictures may not be free to use.
+development purposes only. I have not released this publicly, it is only shared
+friends and family.
